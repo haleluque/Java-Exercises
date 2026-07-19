@@ -38,6 +38,10 @@ Ejercicios tipo challenge (p. ej. HackerRank). Cada uno vive en su propio paquet
 | `diagonal_difference` | Diferencia absoluta entre diagonales |
 | `counting_sort_1` | Array de frecuencias (counting sort) |
 | `flipping_matrix` | Maximizar suma del cuadrante superior izquierdo |
+| `zigzag_sequence` | Secuencia zig-zag lexicográficamente mínima |
+| `tower_breaker` | Juego de torres; ganador con juego óptimo |
+| `caesar_cipher` | Cifrado César con rotación del alfabeto |
+| `palindrome_index` | Índice a eliminar para formar un palíndromo |
 
 ## Cómo correr
 
