@@ -1,4 +1,4 @@
-package com.haleluqe.problems.counting_sort_1;
+package com.haleluqe.problems.others.counting_sort_1;
 
 import java.io.*;
 import java.util.*;

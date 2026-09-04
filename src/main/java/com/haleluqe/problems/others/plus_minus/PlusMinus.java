@@ -1,4 +1,4 @@
-package com.haleluqe.problems.plus_minus;
+package com.haleluqe.problems.others.plus_minus;
 
 import java.io.BufferedReader;
 import java.io.IOException;

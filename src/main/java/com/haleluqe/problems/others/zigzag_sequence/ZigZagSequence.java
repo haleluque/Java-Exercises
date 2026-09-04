@@ -1,4 +1,4 @@
-package com.haleluqe.problems.zigzag_sequence;
+package com.haleluqe.problems.others.zigzag_sequence;
 
 import java.util.*;
 import java.lang.*;

@@ -1,4 +1,4 @@
-package com.haleluqe.problems.min_max_sum;
+package com.haleluqe.problems.others.min_max_sum;
 
 import java.io.BufferedReader;
 import java.io.IOException;

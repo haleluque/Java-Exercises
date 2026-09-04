@@ -1,4 +1,4 @@
-package com.haleluqe.problems.lonely_integer;
+package com.haleluqe.problems.others.lonely_integer;
 
 import java.io.*;
 import java.util.*;

@@ -1,4 +1,4 @@
-package com.haleluqe.problems.diagonal_difference;
+package com.haleluqe.problems.others.diagonal_difference;
 
 import java.io.*;
 import java.math.*;

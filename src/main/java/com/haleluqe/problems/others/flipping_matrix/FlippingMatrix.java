@@ -1,4 +1,4 @@
-package com.haleluqe.problems.flipping_matrix;
+package com.haleluqe.problems.others.flipping_matrix;
 
 import java.util.Arrays;
 import java.util.Collections;

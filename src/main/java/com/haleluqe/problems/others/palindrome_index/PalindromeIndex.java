@@ -1,4 +1,4 @@
-package com.haleluqe.problems.palindrome_index;
+package com.haleluqe.problems.others.palindrome_index;
 
 import java.io.*;
 import java.util.stream.*;

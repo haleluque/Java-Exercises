@@ -1,4 +1,4 @@
-package com.haleluqe.problems.time_convertion;
+package com.haleluqe.problems.others.time_convertion;
 
 import java.io.*;
 

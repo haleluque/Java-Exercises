@@ -1,4 +1,4 @@
-package com.haleluqe.problems.caesar_cipher;
+package com.haleluqe.problems.others.caesar_cipher;
 
 import java.io.*;
 

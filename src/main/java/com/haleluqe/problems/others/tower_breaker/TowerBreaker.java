@@ -1,4 +1,4 @@
-package com.haleluqe.problems.tower_breaker;
+package com.haleluqe.problems.others.tower_breaker;
 
 import java.io.*;
 import java.math.*;
